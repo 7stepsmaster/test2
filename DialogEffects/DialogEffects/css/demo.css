@@ -1,0 +1,32 @@
+
+
+
+a, button {
+	color: #74716D;
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover, a:focus {
+	color: #c94e50;
+	outline: none;
+}
+
+button {
+	padding: 1em 2em;
+	outline: none;
+	font-weight: 600;
+	border: none;
+	color: #fff;
+	background: #c94e50;
+}
+
+
+
+button.trigger {
+	background: #c94e50;
+	color: #fff;
+	border: none;
+}
+
+
